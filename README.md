@@ -272,6 +272,8 @@ Open the UI at **http://localhost:8080**.
 ---
 
 ## Architecture (at a glance)
+<img width="1009" height="818" alt="image" src="https://github.com/user-attachments/assets/5799e729-3fbf-4a68-a317-786c0107c052" />
+
 
 - **PostgreSQL** (logical replication) → WAL → **Debezium Postgres Connector**  
 - **Kafka Connect** manages the connector lifecycle & offsets  
