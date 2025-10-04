@@ -279,6 +279,8 @@ Open the UI at **http://localhost:8080**.
 - **Kafka Connect** manages the connector lifecycle & offsets  
 - **Kafka** receives table-scoped topics (e.g., `example.public.customers`)  
 - Consumers subscribe to topics of interest
+- https://blog.sequinstream.com/how-debezium-captures-changes-from-postgres/
+- https://blog.sequinstream.com/postgres-cdc-with-debezium-complete-step-by-step-tutorial/
 
 ---
 
